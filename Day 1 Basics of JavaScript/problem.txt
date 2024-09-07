@@ -1,0 +1,4 @@
+Problem: Write a function to do simple calculations.
+
+calculate(3,4,'*')
+calculate(1,4,'+')
