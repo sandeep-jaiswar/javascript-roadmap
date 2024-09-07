@@ -1,0 +1,2 @@
+Topic: What is JavaScript? Overview of where it is used (web development, server-side scripting).
+
