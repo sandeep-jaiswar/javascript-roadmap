@@ -1,0 +1,1 @@
+Topic: Promises: understanding resolve, reject, then, catch.

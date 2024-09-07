@@ -1,0 +1,1 @@
+Topic: Selecting elements (getElementById, querySelector).
