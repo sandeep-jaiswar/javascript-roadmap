@@ -1,0 +1,1 @@
+Topic: Destructuring objects and arrays.

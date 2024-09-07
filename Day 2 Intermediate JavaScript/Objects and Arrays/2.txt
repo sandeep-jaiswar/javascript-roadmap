@@ -1,0 +1,1 @@
+Topic: Arrays: declaration, methods (push, pop, shift, unshift, slice, splice).
